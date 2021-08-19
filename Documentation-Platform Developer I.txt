@@ -1,0 +1,14 @@
+Platform Developer I Certification
+
+
+
+User Interface:
+
+
+- Controller Methods:
+https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_controller_methods.htm
+
+- Build a Custom Controller: 
+https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_controller_custom.htm
+
+
