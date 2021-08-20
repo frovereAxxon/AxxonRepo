@@ -1,9 +1,17 @@
 Platform Developer I Certification
 
 
+LWC:
+
+- Lightning Web Components and Salesforce Data
+https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-and-salesforce-data
+
+- Lightning Data Service:
+https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.data_ui_api
+
+
 
 User Interface:
-
 
 - Controller Methods:
 https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_controller_methods.htm
@@ -11,4 +19,46 @@ https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_control
 - Build a Custom Controller: 
 https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_controller_custom.htm
 
+- Create Custom Exceptions:
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_exception_custom.htm
 
+- Using the with sharing, without sharing, and inherited sharing Keywords
+https://developer.salesforce.com/docs/atlas.en-us.232.0.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm
+
+- Apex Class Definition:
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm
+
+- Interfaces: 
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_interfaces.htm
+
+
+
+Debugging, Testing and Deployment:
+
+- Types of Sandboxes:
+https://help.salesforce.com/s/articleView?id=sf.create_test_instance.htm&type=5
+
+- Sandbox Licenses and Storage Limits by Type:
+https://help.salesforce.com/s/articleView?id=sf.data_sandbox_environments.htm&type=5
+
+- Using Limits, startTest, and stopTest:
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm
+
+- Run Unit Test Methods:
+https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_deploy_running_tests.htm
+
+-Loading Test Data:
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing_load_data.htm
+
+- Application Lifecycle and Development Models
+https://trailhead.salesforce.com/content/learn/modules/application-lifecycle-and-development-models
+
+
+
+Lightning Bots:
+
+- Basics:
+https://trailhead.salesforce.com/content/learn/modules/service_bots_basics
+
+- Project:
+https://trailhead.salesforce.com/content/learn/projects/build-an-einstein-bot
